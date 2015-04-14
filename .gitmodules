@@ -1,9 +1,9 @@
 [submodule "container-ubuntu"]
 	path = container-ubuntu
-	url = git@github.com:JasonGiedymin/container-ubuntu.git
+	url = git@github.com:Amuxbit/container-ubuntu.git
 [submodule "container-perl"]
 	path = container-perl
-	url = git@github.com:JasonGiedymin/container-perl.git
+	url = git@github.com:Amuxbit/container-perl.git
 [submodule "container-ddg-hack"]
 	path = container-ddg-hack
-	url = git@github.com:JasonGiedymin/container-ddg-hack.git
+	url = git@github.com:Amuxbit/container-ddg-hack.git
